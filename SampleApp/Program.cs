@@ -12,6 +12,7 @@ namespace SampleApp
         {
             Console.WriteLine("hello World");
             Console.WriteLine("Updated line");
+            Demo.Write();
             Console.ReadLine();
         }
     }
