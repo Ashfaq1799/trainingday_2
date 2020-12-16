@@ -1,0 +1,7 @@
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\bin\Debug\SampleApp.exe.config
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\bin\Debug\SampleApp.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\bin\Debug\SampleApp.pdb
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\obj\Debug\SampleApp.csprojAssemblyReference.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\obj\Debug\SampleApp.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day2\SampleApp\obj\Debug\SampleApp.pdb
