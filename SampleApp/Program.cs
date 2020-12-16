@@ -11,6 +11,8 @@ namespace SampleApp
         static void Main(string[] args)
         {
             Console.WriteLine("hello World");
+            Console.WriteLine("Updated line");
+            Console.ReadLine();
         }
     }
 }
